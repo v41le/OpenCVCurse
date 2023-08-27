@@ -1,0 +1,3 @@
+﻿  prueba.cpp
+C:\Users\User\source\repos\rostro_carpeta\OpenCVCurse\OpenCVCurse\prueba.cpp(12,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  OpenCVCurse.vcxproj -> C:\Users\User\source\repos\rostro_carpeta\OpenCVCurse\x64\Debug\OpenCVCurse.exe
