@@ -17,3 +17,4 @@ El proyecto se basa en los siguientes pasos:
 •	Aplicar un filtro adaptativo de umbralización para mejorar el contraste y el brillo de la placa.
 •	Usar la biblioteca pytesseract para extraer el texto de la placa y mostrarlo en la consola.
 •	Mostrar la imagen original, la imagen con los bordes detectados, la imagen transformada y la imagen final con el texto extraído.
+![detector de placas](https://github.com/v41le/OpenCVCurse/assets/125850483/f808b067-5479-4265-a33a-c0e92b8d68b2)
